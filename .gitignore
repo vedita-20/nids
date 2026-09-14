@@ -5,3 +5,5 @@ __pycache__/
 
 MachineLearningCVE/
 *.csv
+nids/NIDS_Classwise_Error_Percentage.csv/
+nids/NIDS_Model_Comparison.csv/
